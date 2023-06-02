@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+.name {
+    color: blue;
+}
+
+.details {
+    border: 1px solid black;
+    border-radius: 10px;
+    list-style-type: none;
+}
+
+.item {
+    transition: background-color 0.3s ease;
+}
+
+.item:hover {
+    background-color: lightgrey;
+}
